@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hanna-bashkatava
-- 👀 I’m interested in AQA
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m passionate about testing
+- 🌱 I work as a Senior AQA Engineer (JS/TS)
 - 📫 How to reach me @hanna-bashkatava
 
 <!---
